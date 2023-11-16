@@ -1,0 +1,4 @@
+Seguro1,34000
+Seguro2,45000
+Seguro3,100000
+Seguro4,5000

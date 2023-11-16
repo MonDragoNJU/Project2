@@ -1,0 +1,11 @@
+Lujoso,OPI789,Kia,2013,Azul,Automatico,4,false,MANTENIMIENTO,14/11/2025,Sede3
+Rapido,XDD123,Ford,2008,Azul,Automatico,6,false,LIMPIEZA,29/11/2023,Sede1
+Deportivo,CCC100,Kia,2007,Rojo,Manual,4,false,LIMPIEZA,12/11/2023,Sede3
+Grande,DEF456,Ford,2018,Azul,Automatico,10,false,MANTENIMIENTO,22/07/2023,Sede2
+Rapido,GHI789,Tesla,2022,Blanco,Manual,4,false,LIMPIEZA,30/08/2023,Sede3
+Lujoso,MNO345,Kia,2019,Negro,Manual,12,false,MANTENIMIENTO,05/10/2023,Sede2
+Deportivo,VWX234,Audi,2017,Azul,Automatico,6,false,MANTENIMIENTO,17/01/2024,Sede2
+Lujoso,YZA567,Kia,2016,Blanco,Manual,8,false,LIMPIEZA,03/02/2024,Sede3
+Lujoso,IWI123,Kia,2013,Azul,Automatico,4,false,DISPONIBLE,14/11/2025,Sede3
+Rapido,IWI234,Ford,2008,Azul,Automatico,6,false,DISPONIBLE,29/11/2023,Sede1
+Grande,IWI897,Ford,2018,Azul,Automatico,10,false,DISPONIBLE,22/07/2023,Sede2
